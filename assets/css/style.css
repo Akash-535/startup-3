@@ -68,7 +68,8 @@ h2{max-width: 607px;
   font-optical-sizing: auto;
   font-size: 22px;
   font-style: normal; 
-font-style: thin;}
+font-style: thin;
+  padding-bottom:20px;}
 
 .form{
   display: flex;
